@@ -9,7 +9,7 @@ These solutions mostly lack optimizations, compact code and fast algorithms.
 
 Most of them still solve the problem well under a second, and one of them under a minute.
 
-Problems solved:
+Problems solved: \
 ✅ 1.1 ✅ 1.2 \
 ✅ 2.1 ✅ 2.2 \
 ✅ 3.1 ✅ 3.2 \
